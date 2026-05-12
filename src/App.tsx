@@ -267,7 +267,7 @@ export default function App() {
                   
                   <div className="absolute inset-x-0 bottom-0 p-4 translate-y-full group-hover:translate-y-0 transition-transform duration-300 bg-gradient-to-t from-[var(--color-tech-black)] to-transparent pt-12 text-center">
                     <a 
-                      href={`https://m.me/nokeyphone?text=I'm interested in the ${phone.brand} ${phone.model}`}
+                      href="https://m.me/1008853192322013"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex tech-btn-primary text-sm items-center justify-center gap-2 no-underline w-full"
@@ -578,7 +578,7 @@ export default function App() {
 
               <div className="p-8 bg-white/5 flex gap-4">
                  <a 
-                  href={`https://m.me/nokeyphone?text=Help me choose between ${comparisonList[0].model} and ${comparisonList[1].model}`}
+                  href="https://m.me/1008853192322013"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 tech-btn-primary flex items-center justify-center gap-2 no-underline"
